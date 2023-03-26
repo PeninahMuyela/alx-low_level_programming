@@ -2,9 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - print the last digit of the number
+ * main - entry point
+ *
+ * description: print the last digit of the number
  * if it is greater than 5, less than 6, or 0
- * return: always (0) success
+ *
+ * Return: always 0 success
  */
 int main(void)
 {
