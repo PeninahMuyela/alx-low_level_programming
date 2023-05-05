@@ -6,7 +6,6 @@
  *
  * Return: the converted number or 0 if b is NULL
  */
-
 unsigned int binary_to_uint(const char *b)
 {
 	unsigned int i;
