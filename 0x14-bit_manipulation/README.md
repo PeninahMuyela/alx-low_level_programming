@@ -1,6 +1,7 @@
 Bit Manipulation Involves the manipulation of bits in a binary number using bitwise operator
 
 TASKS
+
 0. Write a function that converts a binary number to an unsigned int.
 Prototype: unsigned int binary_to_uint(const char *b);
 where b is pointing to a string of 0 and 1 chars
